@@ -1,0 +1,87 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 5px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+  width: 300px;
+  height: 350px;
+}
+
+
+h1 {
+  font-family: "Arial", serif;
+  font-size: 26px;
+}
+ul {
+	list-style-type: none;
+ }
+
+ button {
+	font-size: 16px;
+	height: 30px;
+	text-align: center;
+ }
+ 
+	 
+ 
+.btn {
+  background-color: DodgerBlue; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+.buttonred {
+	margin: 1px;
+	border-top-color: red;
+	border-left-color: red;
+	border-right-color: red;
+	border-bottom-color: red;
+	
+}
+
+.buttonblue {
+	margin: 1px;
+	border-top-color: blue;
+	border-left-color: blue;
+	border-right-color: blue;
+	border-bottom-color: blue;
+	
+}
+
+.buttongreen {
+	margin: 1px;
+	border-top-color: green;
+	border-left-color: green;
+	border-right-color: green;
+	border-bottom-color: green;
+
+}
+
+.buttonyellow {
+	margin: 1px;
+	border-top-color: yellow;
+	border-left-color: yellow;
+	border-right-color: yellow;
+	border-bottom-color: yellow;	
+}
+
+
+
+
+
+
+ 
+ 

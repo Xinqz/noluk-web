@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "No Luk",
+  "description": "It is a screen protection.",
+  "version": "1.0",
+  
+  "browser_action": {
+    "default_icon": "flower.png",
+    "default_popup": "index.html",
+	"default_title": "Klick hier drauf"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
